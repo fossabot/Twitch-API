@@ -1,4 +1,6 @@
 # Twitch API v3
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FTwitch-API.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FTwitch-API?ref=badge_shield)
+
 
 ## Overview
 
@@ -248,3 +250,7 @@ We use an OAuth 2.0, an authentication protocol designed to make accessing user 
 | [GET /videos/top](/v3_resources/videos.md#get-videostop) | Get top videos by number of views |
 | [GET /channels/:channel/videos](/v3_resources/videos.md#get-channelschannelvideos) | Get list of video objects belonging to channel |
 | [GET /videos/followed](/v3_resources/videos.md#get-videosfollowed) | Get list of videos belonging to channels user is following |
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FTwitch-API.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FTwitch-API?ref=badge_large)
